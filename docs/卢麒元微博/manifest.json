@@ -1,11 +1,14 @@
 {
-  "status": "partial",
-  "coverage": "2026-04-24 to 2026-06-22 from public mobile Weibo pages; page 20 required captcha/login.",
-  "raw_records": 171,
-  "investment_records": 115,
-  "documents": [
-    "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-04_卢麒元微博投资相关整理.docx",
-    "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-05_卢麒元微博投资相关整理.docx",
-    "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-06_卢麒元微博投资相关整理.docx"
-  ]
+    "status":  "partial",
+    "coverage":  "2026-04-24 to 2026-06-22 from public mobile Weibo pages; page 20 required captcha/login. Incremental refresh attempted on 2026-06-25; desktop weibo.com profile opened in Chrome, but automated DOM/screenshot/copy/resource extraction timed out; desktop ajax returned visitor gating without stable readable payload; mobile API returned HTTP 432.",
+    "last_incremental_check":  "2026-06-25",
+    "next_refresh_preference":  "Use desktop weibo.com profile or desktop ajax with visible browser login state first; use m.weibo.cn only as a fallback.",
+    "update_log":  "F:\\Git\\investment\\.agents\\logs\\lqy-weibo\\2026-06-25_增量更新记录.md",
+    "raw_records":  171,
+    "investment_records":  115,
+    "documents":  [
+                      "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-04_卢麒元微博投资相关整理.docx",
+                      "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-05_卢麒元微博投资相关整理.docx",
+                      "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-06_卢麒元微博投资相关整理.docx"
+                  ]
 }
