@@ -1,17 +1,18 @@
 {
   "status": "partial",
-  "coverage": "2026-04-24 to 2026-06-25 from public mobile Weibo pages plus desktop detail pages; 2026-06-25/06-23 key posts were verified via desktop detail pages.",
-  "last_incremental_check": "2026-06-25",
+  "coverage": "2026-04-24 to 2026-07-17 from historical public pages plus verified desktop detail pages.",
+  "last_incremental_check": "2026-07-17",
   "next_refresh_preference": "Use desktop weibo.com profile or desktop ajax with visible browser login state first; use m.weibo.cn only as a fallback.",
   "update_log": "F:\\Git\\investment\\.agents\\logs\\lqy-weibo\\2026-06-25_增量更新记录.md",
   "raw_records": 171,
-  "investment_records": 118,
+  "investment_records": 174,
   "documents": [
     "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-04_卢麒元微博投资相关整理.docx",
     "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-05_卢麒元微博投资相关整理.docx",
-    "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-06_卢麒元微博投资相关整理.docx"
+    "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-06_卢麒元微博投资相关整理.docx",
+    "F:\\Git\\investment\\docs\\卢麒元微博\\word\\2026-07_卢麒元微博投资相关整理.docx"
   ],
-  "last_visible_desktop_import": "2026-06-25 15:51 +08:00",
-  "last_visible_desktop_import_new_records": 3,
-  "latest_summary": "F:\\Git\\investment\\docs\\卢麒元微博\\2026-06-25_卢麒元微博增量整理.md"
+  "last_visible_desktop_import": "2026-07-17 +08:00",
+  "last_visible_desktop_import_new_records": 56,
+  "latest_summary": "F:\\Git\\investment\\docs\\卢麒元微博\\2026-07-17_卢麒元微博增量整理.md"
 }

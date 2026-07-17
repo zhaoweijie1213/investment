@@ -195,7 +195,7 @@ def build_doc(month: str, records):
     run.bold = True
     run.font.color.rgb = RGBColor(11, 37, 69)
 
-    add_meta_paragraph(doc, "来源", "微博移动端公开页面；因微博第20页触发验证码，本批次仅覆盖已抓取公开数据")
+    add_meta_paragraph(doc, "来源", "微博电脑端详情页与历史公开页面；每条记录均保留来源链接和完整性标记")
     add_meta_paragraph(doc, "整理范围", f"{month} 月内投资、宏观、资产、货币、能源相关微博")
     add_meta_paragraph(doc, "风险提示", "原文观点不等于可验证事实，不构成买卖建议；涉及价格、政策、战争、利率与库存的数据须使用最新公开数据复核。")
 
