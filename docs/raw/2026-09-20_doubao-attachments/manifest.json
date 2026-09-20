@@ -1,0 +1,32 @@
+[
+  {
+    "file": "金油比×日本财政：1971-2025复合总表 (1).pdf",
+    "sha256": "0d89d499464022b8a948e070e84559b50d23c9c295f51489941dd3c631dce560",
+    "pages": 2,
+    "text_sha256": "354866cec538b19edbcd7a0aa1fd4306169876120c570b44ba05f4460d8897e4",
+    "render_sha256": [
+      "78445890b9cc3fc45dd8e8b7c242f366dcbd1fe00b7f8ef24a22b190dbd2cf3e",
+      "76a0630b4c77138c43d86feb0dadeb52e76b679bcdace62479078d57e9b87bc3"
+    ]
+  },
+  {
+    "file": "金油比×日本财政：1971-2025复合总表 (2).pdf",
+    "sha256": "e5d0c49112e62af5f2a6cb7f6c73a73090cb273e9d071fc82c66fbba837b26d4",
+    "pages": 2,
+    "text_sha256": "354866cec538b19edbcd7a0aa1fd4306169876120c570b44ba05f4460d8897e4",
+    "render_sha256": [
+      "78445890b9cc3fc45dd8e8b7c242f366dcbd1fe00b7f8ef24a22b190dbd2cf3e",
+      "76a0630b4c77138c43d86feb0dadeb52e76b679bcdace62479078d57e9b87bc3"
+    ]
+  },
+  {
+    "file": "金油比×日本财政：1971-2025复合总表.pdf",
+    "sha256": "40b1ac8c6068b93add07dd4b02cf73f358cc2dfb06f6d60a2268e81b49b34b14",
+    "pages": 2,
+    "text_sha256": "354866cec538b19edbcd7a0aa1fd4306169876120c570b44ba05f4460d8897e4",
+    "render_sha256": [
+      "78445890b9cc3fc45dd8e8b7c242f366dcbd1fe00b7f8ef24a22b190dbd2cf3e",
+      "76a0630b4c77138c43d86feb0dadeb52e76b679bcdace62479078d57e9b87bc3"
+    ]
+  }
+]

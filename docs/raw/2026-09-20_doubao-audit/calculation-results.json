@@ -1,0 +1,125 @@
+{
+  "retrieved": "2026-09-20",
+  "workbook_version": "Updated on September 02, 2026",
+  "comparison": [
+    {
+      "year": 1971,
+      "doubao": 9.8,
+      "gold": 41,
+      "wti": 3.56,
+      "ratio": 11.516853932584269,
+      "source": "World Bank gold / FRED WTISPLC 12-month mean"
+    },
+    {
+      "year": 1973,
+      "doubao": 13.5,
+      "gold": 97,
+      "wti": 3.8725,
+      "ratio": 25.048418334409295,
+      "source": "World Bank gold / FRED WTISPLC 12-month mean"
+    },
+    {
+      "year": 1980,
+      "doubao": 14.7,
+      "gold": 608,
+      "wti": 37.375,
+      "ratio": 16.267558528428093,
+      "source": "World Bank gold / FRED WTISPLC 12-month mean"
+    },
+    {
+      "year": 1985,
+      "doubao": 10.1,
+      "gold": 318,
+      "wti": 27.8,
+      "ratio": 11.43884892086331,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 1990,
+      "doubao": 11.3,
+      "gold": 383,
+      "wti": 24.5,
+      "ratio": 15.63265306122449,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 1998,
+      "doubao": 29.6,
+      "gold": 294,
+      "wti": 14.3,
+      "ratio": 20.55944055944056,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 2000,
+      "doubao": 14.8,
+      "gold": 279,
+      "wti": 30.3,
+      "ratio": 9.207920792079207,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 2008,
+      "doubao": 20.2,
+      "gold": 872,
+      "wti": 99.6,
+      "ratio": 8.755020080321286,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 2009,
+      "doubao": 25.4,
+      "gold": 973,
+      "wti": 61.7,
+      "ratio": 15.769854132901134,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 2014,
+      "doubao": 16.1,
+      "gold": 1266,
+      "wti": 93.1,
+      "ratio": 13.598281417830291,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 2020,
+      "doubao": 36.8,
+      "gold": 1770,
+      "wti": 39.3,
+      "ratio": 45.0381679389313,
+      "source": "World Bank annual prices"
+    },
+    {
+      "year": 2025,
+      "doubao": 32.2,
+      "gold": 3442,
+      "wti": 64.9,
+      "ratio": 53.03543913713405,
+      "source": "World Bank annual prices"
+    }
+  ],
+  "LBMA_EIA": {
+    "2020": {
+      "gold": 1769.59,
+      "wti": 39.16,
+      "ratio": 45.18871297242084
+    },
+    "2025": {
+      "gold": 3431.54,
+      "wti": 65.39,
+      "ratio": 52.478054748432484
+    }
+  },
+  "formulas": {
+    "fixed_1971_gold_amount_at_2025_USD": 349.03664,
+    "2025_oil_at_1971_official_gold_USD": 0.6669454530618906,
+    "oil_price_in_gold_relative_to_1971": 0.1873442283881715,
+    "USD_oil_purchasing_power_relative_to_1971": 0.05444257531732681,
+    "USD_gold_purchasing_power_relative_to_1971": 0.010199502264289503,
+    "market_gold_41_baseline_forward": 297.9581073170732,
+    "market_gold_41_baseline_reverse": 0.7812789593010718,
+    "Japan_debt_change_2008_pp": 7.900000000000006,
+    "Japan_debt_change_2009_pp": 17.95599999999999
+  }
+}
